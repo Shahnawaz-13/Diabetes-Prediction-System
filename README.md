@@ -69,3 +69,4 @@ The model uses the following features:
 ---
 
 ## Demo URL
+Link:https://diabetes-prediction-system-13.streamlit.app/
